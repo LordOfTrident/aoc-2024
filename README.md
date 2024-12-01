@@ -90,7 +90,7 @@ $ make PART
 
 <div align="center">
 	<a href="https://adventofcode.com/2024">
-		<img alt="AOC" src="https://img.shields.io/badge/🎄 Advent Of Code ⛄-ff4141?style=for-the-badge&logo=aoc&logoColor=white">
+		<img alt="AOC" src="https://img.shields.io/badge/🎄 Advent Of Code ⛄-f96666?style=for-the-badge&logo=aoc&logoColor=white">
 	</a>
 	<p align="center">Made with ❤️ love for 🎄🎁⛄</p>
 </div>
