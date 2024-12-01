@@ -17,8 +17,8 @@
 	</a>
 	<br><br><br>
 	<img src="./res/banner.png" width="90%">
-	<h1 align="center">Advent of Code 2024</h1>
-	<p align="center">🎄 My AOC 2024 solutions 🎁</p>
+	<h1 align="center">🎄 Advent of Code 2024 🎁</h1>
+	<p align="center">My AOC 2024 solutions</p>
 	<p align="center">
 		<a href="https://adventofcode.com/2024">adventofcode.com/2024</a>
 	</p>
