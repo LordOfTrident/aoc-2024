@@ -16,7 +16,7 @@
 		<img alt="Pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/aoc-2024?style=for-the-badge&color=4f79e4">
 	</a>
 	<br><br><br>
-	<img src="./res/banner.png" width="90%">
+	<img src="./res/thumbnail.png" width="90%">
 	<h1 align="center">🎄 Advent of Code 2024 🎁</h1>
 	<p align="center">My AOC 2024 solutions</p>
 	<p align="center">
