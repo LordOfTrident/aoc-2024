@@ -11,6 +11,12 @@ could not figure out how to check if the sort function changed the array at all,
 using `is_sorted_by` to check before sorting. This is a bit annoying because now i had to repeat
 a similar lambda twice.
 
+Edit:
+I decided to change part 1 implementation to use the same `is_sorted_by` function as part 2 instead
+of my own implementation. Makes the code shorter and probably faster. I commented out the old code.
+This is also probably the last day of Rust for this year of AOC. I will switch to a different lang
+and will soon consider using Rust for a project for the first time.
+
 ## Quickstart
 To run part 1 or part 2, do:
 ```sh

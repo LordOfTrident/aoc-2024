@@ -36,6 +36,7 @@ fn read_page_data() -> (HashSet<Rule>, Vec<Update>) {
 	return (parse_rules(parts[0]), parse_updates(parts[1]));
 }
 
+/*
 fn is_update_correct(update: &Update, rules: &HashSet<Rule>) -> bool {
 	for (i, a) in update.iter().enumerate() {
 		for (j, b) in update.iter().enumerate() {
@@ -47,12 +48,14 @@ fn is_update_correct(update: &Update, rules: &HashSet<Rule>) -> bool {
 	}
 	return true;
 }
+*/
 
 fn main() {
 	let (rules, updates) = read_page_data();
 	let mut sum = 0;
 	for update in updates {
-		if is_update_correct(&update, &rules) {
+		// is_update_correct(&update, &rules)
+		if update.is_sorted_by(|a, b| rules.contains(&(*a, *b))) {
 			sum += update[update.len() / 2];
 		}
 	}
