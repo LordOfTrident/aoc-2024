@@ -1,4 +1,4 @@
-<h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/1">Day 03</a></h1>
+<h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/3">Day 03</a></h1>
 <p align="center">In <a href="https://www.rust-lang.org/">Rust</a></p>
 
 This day was way easier than day 2. The only issue i ran into was with part 2, and that is not
