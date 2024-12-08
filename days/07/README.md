@@ -1,5 +1,8 @@
 <h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/7">Day 07</a></h1>
 <p align="center">In <a href="https://harelang.org/">Hare</a></p>
+<p align="center">
+	<img src="https://harelang.org/mascot.png" width="50px">
+</p>
 
 This day was a relief. I picked Hare as the next language and i was praying that it would not be as
 bad as V - it wasnt. It feels like a combination of C3 and Go (though i have never used C3, just

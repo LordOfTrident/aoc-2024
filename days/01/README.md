@@ -1,5 +1,8 @@
 <h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/1">Day 01</a></h1>
 <p align="center">In <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></p>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-plain.svg" width="50px">
+</p>
 
 Starting off AOC 2024 with my *still* favorite language, C. Somehow, over 50 years later it is still
 special and has not been not replaced. I have tried many other languages but i keep going back to C

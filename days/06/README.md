@@ -1,5 +1,8 @@
 <h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/6">Day 06</a></h1>
 <p align="center">In <a href="https://vlang.io/">V</a></p>
+<p align="center">
+	<img src="https://vlang.io/img/v-logo.png" width="50px">
+</p>
 
 > Abandon all hope ye who enter here.
 

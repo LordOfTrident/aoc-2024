@@ -1,5 +1,8 @@
 <h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/3">Day 03</a></h1>
 <p align="center">In <a href="https://www.rust-lang.org/">Rust</a></p>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg" width="50px">
+</p>
 
 This day was way easier than day 2. The only issue i ran into was with part 2, and that is not
 because of the problem, but because of Rust. It was clear Regex would be really handy to solve part

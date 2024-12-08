@@ -1,5 +1,8 @@
 <h1 align="center">🎄 <a href="https://adventofcode.com/2023/day/2">Day 02</a></h1>
 <p align="center">In <a href="https://www.rust-lang.org/">Rust</a></p>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg" width="50px">
+</p>
 
 Going right to Rust for day 2, since its one of the languages im the most interested in. Part 1 was
 quite easy to do in Rust, but i fought the compiler more than a few times in part 2. I eventually
