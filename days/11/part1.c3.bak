@@ -1,0 +1,53 @@
+module hello_world;
+import std::io;
+import std::collections::list;
+import std::math;
+
+def Stones = List(<usz>);
+
+fn Stones read_input() {
+	String[] parts  = ((String)io::file::load_new("input.txt")!!).strip_end("\n").split(" ");
+	Stones   stones;
+	stones.new_init(parts.len);
+	foreach (part : parts)
+		stones.push(part.to_integer(usz)!!);
+	return stones;
+}
+
+fn int count_digits(usz n) {
+	int count = 0;
+	while (n > 0) {
+		n /= 10;
+		++ count;
+	}
+	return count;
+}
+
+fn Stones blink(Stones stones) {
+	for (usz i = 0; i < stones.len(); i ++) {
+		int n;
+		if (stones[i] == 0) {
+			stones[i] = 1;
+		} else if ((n = count_digits(stones[i])) % 2 == 0) {
+			usz half  = (usz)math::pow(10, n / 2);
+			usz left  = stones[i] / half;
+			usz right = stones[i] - left * half;
+
+			stones[i] = left;
+			stones.insert_at(++ i, right);
+		} else {
+			// For some reason, using *= crashed the compiler with "Should be unreachable", so this
+			// is a workaround
+			stones[i] = stones[i] * 2024;
+		}
+	}
+	return stones;
+}
+
+fn void main() {
+	Stones stones = read_input();
+	for (usz i = 0; i < 25; ++ i)
+		stones = blink(stones);
+
+	io::printn(stones.len());
+}
