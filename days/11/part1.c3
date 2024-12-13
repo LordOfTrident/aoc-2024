@@ -1,4 +1,4 @@
-module hello_world;
+module part1;
 import std::io;
 import std::collections::linkedlist;
 import std::math;

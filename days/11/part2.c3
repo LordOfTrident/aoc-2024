@@ -1,4 +1,4 @@
-module hello_world;
+module part2;
 import std::io;
 import std::math;
 import std::collections::map;
