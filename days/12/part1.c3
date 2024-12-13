@@ -1,7 +1,6 @@
 module part1;
 import std::io;
 import std::collections::list;
-import std::collections::map;
 
 def Row  = List(<int>);
 def Grid = List(<Row>);
