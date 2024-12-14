@@ -6,7 +6,7 @@
 
 Big relief, an easy day. I guess they put this in as a break from the hard previous days. I got part
 1 working quickly. Part 2 was confusing at first, i had no idea what kind of christmas tree they
-could be talking about. I was overthinking. I didnt think that just searching for a vertical line
+could be talking about. I was overthinking. I didnt think that just searching for a horizontal line
 would do it, but after searching for a hint, apparently that is the way. So i just implemented that
 and got it working.
 
