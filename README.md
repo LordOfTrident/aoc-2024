@@ -61,7 +61,7 @@ My goals for AOC 2024 are:
 | [11](./days/11) | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | [C3](https://c3-lang.org/) |
 | [12](./days/12) | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | [C3](https://c3-lang.org/) |
 | [13](./days/13) | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | [C3](https://c3-lang.org/) |
-| [14](./days/14) | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | - |
+| [14](./days/14) | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/%E2%9C%94-26c374?style=for-the-badge" width="28px"> | [C3](https://c3-lang.org/) |
 | [15](./days/15) | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | - |
 | [16](./days/16) | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | - |
 | [17](./days/17) | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | <img src="https://img.shields.io/badge/x-d63653?style=for-the-badge" width="28px"> | - |
